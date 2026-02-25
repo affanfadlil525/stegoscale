@@ -1,0 +1,5 @@
+{
+  "name": "StegaScale - Advanced LSB Steganography",
+  "description": "Increase message capacity in images using Advanced Least Significant Bit (LSB) and dynamic image scaling.",
+  "requestFramePermissions": []
+}

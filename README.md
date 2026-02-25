@@ -1,2 +1,1 @@
-# stegoscale
-skirpsi aing
+skripsi aing
